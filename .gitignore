@@ -1,3 +1,4 @@
 *.dat
 results/
 !final.data # Exception for the final data 
+.Rproj.user
